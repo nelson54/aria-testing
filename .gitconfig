@@ -8,3 +8,6 @@
   llog = log --date=local
 [rerere]
   enabled = true
+[user]
+	email = dereknelson01@gmail.com
+	name = derek nelson
